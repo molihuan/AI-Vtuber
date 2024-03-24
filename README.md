@@ -1,3 +1,12 @@
+本项目是从https://github.com/Ikaros-521/AI-Vtuber
+fork而来(2024.3.22),准备进行重构精简,开发自己需要的功能
+
+
+
+
+
+
+
 # ✨ Luna AI ✨
 
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FIkaros-521%2FAI-Vtuber?ref=badge_shield&issueType=license" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FIkaros-521%2FAI-Vtuber.svg?type=shield&issueType=license"/></a>
